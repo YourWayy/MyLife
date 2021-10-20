@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/MyLife/static/css/main.9528efb5.chunk.css",
+    "main.js": "/MyLife/static/js/main.7bd07fb3.chunk.js",
+    "main.js.map": "/MyLife/static/js/main.7bd07fb3.chunk.js.map",
+    "runtime-main.js": "/MyLife/static/js/runtime-main.037888e4.js",
+    "runtime-main.js.map": "/MyLife/static/js/runtime-main.037888e4.js.map",
+    "static/js/2.05a3ebce.chunk.js": "/MyLife/static/js/2.05a3ebce.chunk.js",
+    "static/js/2.05a3ebce.chunk.js.map": "/MyLife/static/js/2.05a3ebce.chunk.js.map",
+    "index.html": "/MyLife/index.html",
+    "static/css/main.9528efb5.chunk.css.map": "/MyLife/static/css/main.9528efb5.chunk.css.map",
+    "static/js/2.05a3ebce.chunk.js.LICENSE.txt": "/MyLife/static/js/2.05a3ebce.chunk.js.LICENSE.txt",
+    "static/media/fonts.scss": "/MyLife/static/media/RobotoCondensed-Bold.ca410272.woff2",
+    "static/media/bathman.1c65c08b.jpg": "/MyLife/static/media/bathman.1c65c08b.jpg",
+    "static/media/cards.42e700c7.jpg": "/MyLife/static/media/cards.42e700c7.jpg",
+    "static/media/development-project.766ea00c.jpg": "/MyLife/static/media/development-project.766ea00c.jpg",
+    "static/media/go-surf.52ddc623.jpg": "/MyLife/static/media/go-surf.52ddc623.jpg",
+    "static/media/konstrukt.6c2107aa.jpg": "/MyLife/static/media/konstrukt.6c2107aa.jpg",
+    "static/media/mario.d41a7b61.jpg": "/MyLife/static/media/mario.d41a7b61.jpg",
+    "static/media/new-yorker.1f2d59bd.jpg": "/MyLife/static/media/new-yorker.1f2d59bd.jpg",
+    "static/media/profile-image.d139c426.jpg": "/MyLife/static/media/profile-image.d139c426.jpg",
+    "static/media/social-network.66258699.jpg": "/MyLife/static/media/social-network.66258699.jpg",
+    "static/media/todo-list.2dc55cb0.jpg": "/MyLife/static/media/todo-list.2dc55cb0.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.037888e4.js",
+    "static/js/2.05a3ebce.chunk.js",
+    "static/css/main.9528efb5.chunk.css",
+    "static/js/main.7bd07fb3.chunk.js"
+  ]
+}
